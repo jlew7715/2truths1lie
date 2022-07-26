@@ -1,0 +1,12 @@
+.factoid {
+    background-color: salmon;
+    text-align: center;
+    border: 2px solid purple;
+    padding: 1em 2em;
+    border-radius: 15px;
+}
+
+
+.lie:hover {
+    background-color: lime;
+}
